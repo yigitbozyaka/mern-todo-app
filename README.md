@@ -14,7 +14,7 @@ npm install
 npm start
 ```
 
-![alt text](https://imgur.com/a/DhfTmCV Showcase)
+![alt text](https://imgur.com/a/DhfTmCV)
 
 ## License
 
