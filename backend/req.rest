@@ -1,0 +1,13 @@
+GET http://localhost:8888/todos
+
+###
+
+POST http://localhost:8888/todos/new
+
+###
+
+DELETE http://localhost:8888/todos/delete/6399d7cb24db2a23dd9e3756
+
+###
+
+PUT http://localhost:8888/todos/done/6399b6968530266ab9f9890a
